@@ -20,7 +20,7 @@ I'm currently working on web development. I like work with JavaScript, React, Sa
 ![](https://img.shields.io/badge/-JavaScript-111111?logo=javascript) ![](https://img.shields.io/badge/-SCSS-111111?logo=sass)  ![](https://img.shields.io/badge/-HTML5-111111?logo=html5) ![](https://img.shields.io/badge/-CSS3-111111?logo=css3) ![](https://img.shields.io/badge/-Dart-111111?logo=dart)
 
 ### Technologies
-![](https://img.shields.io/badge/-ReactJs-111111?logo=react) ![](https://img.shields.io/badge/-NodeJS-111111?logo=nodedotjs) ![](https://img.shields.io/badge/-TailwindCSS-111111?logo=tailwindcss) ![](https://img.shields.io/badge/-BootstrapCSS-111111?logo=bootstrap) ![](https://img.shields.io/badge/-PostCSS-111111?logo=postcss)
+![](https://img.shields.io/badge/-ReactJs-111111?logo=react) ![](https://img.shields.io/badge/-NodeJS-111111?logo=nodedotjs) ![](https://img.shields.io/badge/-TailwindCSS-111111?logo=tailwindcss) ![](https://img.shields.io/badge/-BootstrapCSS-111111?logo=bootstrap) ![](https://img.shields.io/badge/-PostCSS-111111?logo=postcss) ![](https://img.shields.io/badge/-Flutter-111111?logo=flutter)
 
 ### Tools and others
 
