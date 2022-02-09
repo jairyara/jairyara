@@ -3,8 +3,8 @@
 I'm currently working on web development. I like work with JavaScript, React, Sass, Tailwind and other technologies. I like learn about infosec and mobile development.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jairyara.jairyara)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jairyara&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairyara&theme=tokyonight)
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jairyara&show_icons=true&theme=tokyonight)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairyara&theme=tokyonight) -->
 
 ## About me
 
@@ -22,18 +22,6 @@ I'm currently working on web development. I like work with JavaScript, React, Sa
 ### Technologies
 ![](https://img.shields.io/badge/-ReactJs-111111?logo=react) ![](https://img.shields.io/badge/-NodeJS-111111?logo=nodedotjs) ![](https://img.shields.io/badge/-TailwindCSS-111111?logo=tailwindcss) ![](https://img.shields.io/badge/-BootstrapCSS-111111?logo=bootstrap) ![](https://img.shields.io/badge/-PostCSS-111111?logo=postcss)
 
+### Tools and others
 
-<!--
-**jairyara/jairyara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/-Git-111111?logo=git) ![](https://img.shields.io/badge/-GitHub-111111?logo=github) ![](https://img.shields.io/badge/-GitLab-111111?logo=gitlab) ![](https://img.shields.io/badge/-Vercel-111111?logo=vercel) ![](https://img.shields.io/badge/-IntelliJIdea-111111?logo=Intellijidea) ![](https://img.shields.io/badge/-VSCode-111111?logo=visualstudiocode) ![](https://img.shields.io/badge/-AndroidStudio-111111?logo=androidstudio) 
